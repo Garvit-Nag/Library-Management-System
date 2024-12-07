@@ -16,7 +16,7 @@ A Flask-based API for managing a library's books and members with CRUD operation
 
 ## Setup and Installation
 1. Clone the repository:  
-   `git clone <repository_url>`  
+   `git clone https://github.com/Garvit-Nag/Library-Management-System/tree/main`  
    `cd library-management-system`  
 
 2. Create and activate a virtual environment:  
